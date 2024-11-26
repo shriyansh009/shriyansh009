@@ -7,6 +7,6 @@
 ![.](https://github-readme-stats-eight-theta.vercel.app/api?username=shriyansh009&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <br/>
 ![.](https://github-readme-streak-stats.herokuapp.com/?user=shriyansh009&theme=algolia)
-![.](https://github-readme-streak-stats.herokuapp.com/?user=shriyansh009&theme=algolia)
+
 
 
