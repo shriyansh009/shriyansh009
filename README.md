@@ -8,5 +8,16 @@
 <br/>
 ![.](https://github-readme-streak-stats.herokuapp.com/?user=shriyansh009&theme=algolia)
 
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/shriyansh009/count.svg" alt="profile views" /> 
+</p>
+
+<div align="center">
+
 
 
