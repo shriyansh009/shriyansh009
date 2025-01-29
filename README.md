@@ -8,6 +8,10 @@
 <br/>
 ![.](https://github-readme-streak-stats.herokuapp.com/?user=shriyansh009&theme=algolia)
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyansh009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <p align="center"> 
   <samp>
     Profile Views Count
