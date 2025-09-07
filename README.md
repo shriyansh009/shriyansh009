@@ -16,7 +16,7 @@
   </samp>
 </p>
 <p align="center"> 
-  <img src="[https://profile-viewcountergithub.onrender.com/count.svg]" alt="profile views" /> 
+  <img src="https://profile-viewcountergithub.onrender.com/count.svg" alt="profile views" /> 
 </p>
 
 <div align="center">
