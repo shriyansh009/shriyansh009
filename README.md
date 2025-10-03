@@ -10,12 +10,12 @@
 
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   <samp>
     Profile Views Count
   </samp>
 </p>
-<!-- <p align="center"> 
+<p align="center"> 
   <img src="https://profile-viewcountergithub.onrender.com/count.svg" alt="profile views" /> 
 </p> -->
 
