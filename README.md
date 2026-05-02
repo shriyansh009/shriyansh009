@@ -13,7 +13,9 @@ I care about end-to-end ownership: designing the backend, wiring the AI layer, s
 <br/>
 ![.](https://github-readme-streak-stats.herokuapp.com/?user=shriyansh009&theme=algolia)
 
+## Achievements
 
+IPR filed for the ARIMA Toll Management system &nbsp;·&nbsp; Intel Unnati — GPS Toll System Simulation
 
 <!-- <p align="center"> 
   <samp>
