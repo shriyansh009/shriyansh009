@@ -11,7 +11,7 @@ I care about end-to-end ownership: designing the backend, wiring the AI layer, s
 # 📊 GitHub Stats:
 ![.](https://github-readme-stats-eight-theta.vercel.app/api?username=shriyansh009&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shriyansh009&theme=algolia)
+[![GitHub Streak](https://streak-stats.vercel.app?user=shriyansh009&theme=algolia)](https://git.io/streak-stats)
 
 ## Achievements
 
