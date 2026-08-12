@@ -13,6 +13,10 @@ I care about end-to-end ownership: designing the backend, wiring the AI layer, s
 <br/>
 [![GitHub Streak](https://streak-stats.vercel.app?user=shriyansh009&theme=tokyonight)](https://git.io/streak-stats)
 
+👀 Profile Views
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shriyansh009&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p>
+
 ## Achievements
 
 IPR filed for the ARIMA Toll Management system &nbsp;·&nbsp; Intel Unnati — GPS Toll System Simulation
